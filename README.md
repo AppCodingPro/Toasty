@@ -23,7 +23,7 @@ allprojects {
 Add the Toasty dependency to your app-level build.gradle file:
 
 ```gradle
-	implementation 'com.github.AppCodingPro:Toasty:1.0.0'
+	implementation 'com.github.AppCodingPro:toasty:1.0.0'
 ```
 
 
